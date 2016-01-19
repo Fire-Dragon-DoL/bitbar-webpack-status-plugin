@@ -10,7 +10,7 @@ Into a file `/tmp/webpack-status`.
 
 ## Installation
 
-  npm install bitbar-webpack-status-plugin --save-dev
+    npm install bitbar-webpack-status-plugin --save-dev
 
 ## Usage
 
