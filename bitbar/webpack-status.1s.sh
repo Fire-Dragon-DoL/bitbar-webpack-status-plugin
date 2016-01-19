@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # <bitbar.title>Webpack Status</bitbar.title>
-# <bitbar.version>v1.1.0</bitbar.version>
+# <bitbar.version>v1.1.1</bitbar.version>
 # <bitbar.author>Francesco Belladonna</bitbar.author>
 # <bitbar.author.github>Fire-Dragon-DoL</bitbar.author.github>
 # <bitbar.desc>Display the current status of webpack server compile: completed/ongoing/failed.</bitbar.desc>
