@@ -12,6 +12,7 @@
   },
   "homepage": "https://github.com/Fire-Dragon-DoL/bitbar-webpack-status-plugin.git",
   "keywords": [
+    "bitbar-webpack-status-plugin",
     "webpack",
     "bitbar",
     "status",
@@ -30,6 +31,6 @@
     "pakmanager": "*"
   },
   "peerDependencies": {
-    "webpack": "^1.12.11"
+    "webpack": "<2.0.0"
   }
 }
