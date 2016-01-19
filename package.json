@@ -1,0 +1,29 @@
+{
+  "name": "bitbar-webpack-status-plugin",
+  "version": "1.0.0",
+  "description": "Writes webpack compile status to a temporary file to be read with BitBar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test present\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Fire-Dragon-DoL/bitbar-webpack-status-plugin.git"
+  },
+  "homepage": "https://github.com/Fire-Dragon-DoL/bitbar-webpack-status-plugin.git",
+  "keywords": [
+    "webpack",
+    "bitbar",
+    "status",
+    "compile",
+    "notification",
+    "notify",
+    "compilation",
+    "plugin"
+  ],
+  "author": "Francesco Belladonna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fire-Dragon-DoL/bitbar-webpack-status-plugin/issues"
+  }
+}
