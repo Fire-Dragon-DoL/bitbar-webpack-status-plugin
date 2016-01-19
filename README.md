@@ -7,6 +7,10 @@ The plugin simply writes one of the following statuses:
 - `1` (green), build successful
 
 Into a file `/tmp/webpack-status`.
+Should be used in conjunction with [BitBar](https://getbitbar.com/) to display
+webpack compilation status in OSX status bar.
+
+![BitBar Webpack Status](https://raw.githubusercontent.com/Fire-Dragon-DoL/bitbar-webpack-status-plugin/master/bitbar-webpack-status-plugin.jpg)
 
 ## Installation
 
@@ -54,3 +58,9 @@ var config = {
 };
 module.exports = config;
 ```
+
+## Bitbar
+
+The plugin can be used in conjuction with
+[BitBar Script](https://raw.githubusercontent.com/Fire-Dragon-DoL/bitbar-webpack-status-plugin/master/bitbar/webpack-status.1s.sh)
+present in this repository to display build process status in OSX status bar.
