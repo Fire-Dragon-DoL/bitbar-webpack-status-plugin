@@ -1,6 +1,6 @@
 {
   "name": "bitbar-webpack-status-plugin",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Writes webpack compile status to a temporary file to be read with BitBar",
   "main": "index.js",
   "scripts": {
