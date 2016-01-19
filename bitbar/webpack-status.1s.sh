@@ -5,7 +5,7 @@
 # <bitbar.author>Francesco Belladonna</bitbar.author>
 # <bitbar.author.github>Fire-Dragon-DoL</bitbar.author.github>
 # <bitbar.desc>Display the current status of webpack server compile: completed/ongoing/failed.</bitbar.desc>
-# <bitbar.image>https://github.com/Fire-Dragon-DoL/bitbar-webpack-status-plugin/bitbar-webpack-status-plugin.jpg</bitbar.image>
+# <bitbar.image>https://raw.githubusercontent.com/Fire-Dragon-DoL/bitbar-webpack-status-plugin/master/bitbar-webpack-status-plugin.jpg</bitbar.image>
 # <bitbar.dependencies>node,webpack</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/Fire-Dragon-DoL/bitbar-webpack-status-plugin</bitbar.abouturl>
 
