@@ -25,5 +25,11 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Fire-Dragon-DoL/bitbar-webpack-status-plugin/issues"
+  },
+  "devDependencies": {
+    "pakmanager": "*"
+  },
+  "peerDependencies": {
+    "webpack": "^1.12.11"
   }
 }
